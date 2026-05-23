@@ -6,7 +6,7 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - /home/llm-lab-server-side/models:/models
+      - /home/models:/models
     ipc: host
     command: >
       --model /models/Qwen3.6-35B-A3B-AWQ-4bit
