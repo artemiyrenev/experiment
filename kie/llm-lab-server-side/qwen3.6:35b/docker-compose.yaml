@@ -10,8 +10,8 @@ services:
     ipc: host
     command: >
       --model /models/Qwen3.6-35B-A3B-AWQ-4bit
-      --pipeline-parallel-size 2
-      --max-model-len 50000
+      --tensor-parallel-size 2
+      --max-model-len 32768
       --max-num-batched-tokens 4096
       --kv-cache-dtype fp8
       --gpu-memory-utilization 0.85
