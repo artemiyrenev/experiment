@@ -1,7 +1,7 @@
 services:
   vllm-server:
     image: vllm/vllm-openai:latest
-    container_name: vllm-moe
+    container_name: vllm-moe-1
     runtime: nvidia
     ports:
       - "8000:8000"
