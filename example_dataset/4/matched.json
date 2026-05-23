@@ -1,0 +1,23 @@
+[
+  {
+    "id": "94841f81-eefa-11ef-0a80-1a1a00011dbb",
+    "name": "МАСКА восстанавливающая для волос с пантенолом NUTRIENT MOISTURIZING - 500 мл",
+    "quantity": 2,
+    "vat": 0,
+    "price": 1450
+  },
+  {
+    "id": "afd8d29c-eefa-11ef-0a80-13b000011828",
+    "name": "SPA-МАСКА шелковая для волос с маслом семян жожоба HAIR TREATMENT HYDRO SPA MOCHEQI CARE - 500 мл",
+    "quantity": 2,
+    "vat": 0,
+    "price": 1650
+  },
+  {
+    "id": "b7603ed6-eefc-11ef-0a80-1a1a000137a1",
+    "name": "ШАМПУНЬ питательный и увлажняющий с маслом Карите - 300 мл",
+    "quantity": 2,
+    "vat": 0,
+    "price": 1200
+  }
+]

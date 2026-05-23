@@ -1,0 +1,310 @@
+[
+  {
+    "id": "31929087-aefe-11ef-0a80-11b90149f0bc",
+    "name": "Blue/синий ПИГМЕНТ прямого действия 100мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 197.25
+  },
+  {
+    "id": "31aac6d8-aefe-11ef-0a80-11b90149f0c8",
+    "name": "Copper/медный ПИГМЕНТ прямого действия 100мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 197.25
+  },
+  {
+    "id": "2f70324e-aefe-11ef-0a80-11b90149ee8b",
+    "name": "INTENSE Profi COLOR БАЛЬЗАМ д/седых и осветленных волос 200мл/ Gray and bleached hair balsam",
+    "quantity": 1,
+    "vat": 20,
+    "price": 297
+  },
+  {
+    "id": "31642353-aefe-11ef-0a80-11b90149f09f",
+    "name": "MEGAPOLIS КОНДИЦИОНЕР для волос с экстрактом черного риса 400 мл (2023)",
+    "quantity": 1,
+    "vat": 20,
+    "price": 606
+  },
+  {
+    "id": "336cd22b-aefe-11ef-0a80-11b90149f1cc",
+    "name": "Ollin Color 10/0 крем-краска д/волос 100мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 180.75
+  },
+  {
+    "id": "3376fa1b-aefe-11ef-0a80-11b90149f1d2",
+    "name": "Ollin Color 11/0 крем-краска д/волос 100мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 180.75
+  },
+  {
+    "id": "33c3ebc1-aefe-11ef-0a80-11b90149f201",
+    "name": "Ollin Color 11/1 крем-краска д/волос 100мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 180.75
+  },
+  {
+    "id": "35ea48f9-aefe-11ef-0a80-11b90149f333",
+    "name": "Ollin Color 5/1 крем-краска д/волос 100мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 180.75
+  },
+  {
+    "id": "3631f061-aefe-11ef-0a80-11b90149f35a",
+    "name": "Ollin Color 6/0 крем-краска д/волос 100мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 180.75
+  },
+  {
+    "id": "390e4738-aefe-11ef-0a80-11b90149f4f5",
+    "name": "Ollin Color 9/0 крем-краска д/волос 100мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 180.75
+  },
+  {
+    "id": "387b78ba-aefe-11ef-0a80-11b90149f4a1",
+    "name": "Ollin Color Окисляющая эмульсия 1,5% 5vol. 150мл серый",
+    "quantity": 5,
+    "vat": 20,
+    "price": 78.75
+  },
+  {
+    "id": "37b6ca12-aefe-11ef-0a80-11b90149f431",
+    "name": "Ollin Color Окисляющая эмульсия 1,5% 5vol. 90мл серый",
+    "quantity": 5,
+    "vat": 20,
+    "price": 48
+  },
+  {
+    "id": "386edf61-aefe-11ef-0a80-11b90149f49b",
+    "name": "Ollin Color Окисляющая эмульсия 3% 10vol. 150мл",
+    "quantity": 5,
+    "vat": 20,
+    "price": 78.75
+  },
+  {
+    "id": "37dd49fc-aefe-11ef-0a80-11b90149f446",
+    "name": "Ollin Color Окисляющая эмульсия 6% 20vol. 1000мл",
+    "quantity": 2,
+    "vat": 20,
+    "price": 271.5
+  },
+  {
+    "id": "384fde02-aefe-11ef-0a80-11b90149f489",
+    "name": "Ollin Color Окисляющая эмульсия 6% 20vol. 150мл",
+    "quantity": 5,
+    "vat": 20,
+    "price": 78.75
+  },
+  {
+    "id": "3b3b7e2b-aefe-11ef-0a80-11b90149f7f1",
+    "name": "PERFECT HAIR Сухой шампунь объём для волос 200 мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 319.5
+  },
+  {
+    "id": "402b6d60-aefe-11ef-0a80-11b90149faab",
+    "name": "Performance 5/00 стойкая крем-краска д/волос 60мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 183.75
+  },
+  {
+    "id": "4068dcc6-aefe-11ef-0a80-11b90149facd",
+    "name": "Performance 6/0 стойкая крем-краска д/волос 60мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 183.75
+  },
+  {
+    "id": "40737254-aefe-11ef-0a80-11b90149fad2",
+    "name": "Performance 6/00 стойкая крем-краска д/волос 60мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 183.75
+  },
+  {
+    "id": "414727a8-aefe-11ef-0a80-11b90149fb40",
+    "name": "Performance 7/72 стойкая крем-краска д/волос 60мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 183.75
+  },
+  {
+    "id": "4166ff42-aefe-11ef-0a80-11b90149fb55",
+    "name": "Performance 8/0 стойкая крем-краска д/волос 60мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 183.75
+  },
+  {
+    "id": "417198eb-aefe-11ef-0a80-11b90149fb5b",
+    "name": "Performance 8/00 стойкая крем-краска д/волос 60мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 183.75
+  },
+  {
+    "id": "449a4f85-aefe-11ef-0a80-11b90149fd92",
+    "name": "Performance 8/44 стойкая крем-краска д/волос 60мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 183.75
+  },
+  {
+    "id": "44c59571-aefe-11ef-0a80-11b90149fda7",
+    "name": "Performance 9/0 стойкая крем-краска д/волос 60мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 183.75
+  },
+  {
+    "id": "4546ae1f-aefe-11ef-0a80-11b90149fddf",
+    "name": "Performance Окисляющая эмульсия 1,5% 5vol. 90мл сиреневый",
+    "quantity": 5,
+    "vat": 20,
+    "price": 51.75
+  },
+  {
+    "id": "4572480f-aefe-11ef-0a80-11b90149fdf4",
+    "name": "Performance Окисляющая эмульсия 6% 20vol. 1000мл сиреневый",
+    "quantity": 2,
+    "vat": 20,
+    "price": 298.5
+  },
+  {
+    "id": "4567dddd-aefe-11ef-0a80-11b90149fdef",
+    "name": "Performance Окисляющая эмульсия 6% 20vol. 90мл сиреневый",
+    "quantity": 5,
+    "vat": 20,
+    "price": 51.75
+  },
+  {
+    "id": "4e7b24a9-aefe-11ef-0a80-11b9014a0439",
+    "name": "VISION НАБОР для окрашивания бровей и ресниц (Коричневый) OLLIN PROFESSIONAL",
+    "quantity": 1,
+    "vat": 20,
+    "price": 263.25
+  },
+  {
+    "id": "4e149e35-aefe-11ef-0a80-11b9014a040a",
+    "name": "VISION НАБОР для окрашивания бровей и ресниц (Холодно-коричневый) OLLIN PROFESSIONAL",
+    "quantity": 1,
+    "vat": 20,
+    "price": 263.25
+  },
+  {
+    "id": "a01f7ecc-aefd-11ef-0a80-11b901498713",
+    "name": "ГЕЛЬ д/бритья 100мл/KONDOR My Beard",
+    "quantity": 1,
+    "vat": 20,
+    "price": 183.6
+  },
+  {
+    "id": "2c46b714-aefe-11ef-0a80-11b90149ecbc",
+    "name": "КОНДИЦИОНЕР Care увлажняющий для волос с гиалуроновой кислотой ULTIMATE CARE - 1000 мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 726
+  },
+  {
+    "id": "2cc21e6b-aefe-11ef-0a80-11b90149ed08",
+    "name": "КРЕМ-КОНДИЦИОНЕР Cocktail BAR для волос \"Медовый коктейль\" гладкость и эластичность - 250 мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 165
+  },
+  {
+    "id": "3d77e1ec-aefe-11ef-0a80-11b90149f950",
+    "name": "КРЕМ-СПРЕЙ Perfect hair 15 в 1 несмываемый - 250 мл",
+    "quantity": 3,
+    "vat": 20,
+    "price": 297.75
+  },
+  {
+    "id": "4e003d2e-aefe-11ef-0a80-11b9014a0400",
+    "name": "ЛАК STYLE для волос ультрасильной фиксации без отдушки - 400 мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 360
+  },
+  {
+    "id": "4f12f0c8-aefe-11ef-0a80-11b9014a0480",
+    "name": "ЛАК Style для волос ультрасильной фиксации - 500 мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 407.25
+  },
+  {
+    "id": "4f34125e-aefe-11ef-0a80-11b9014a0490",
+    "name": "ЛАК Style для волос экстрасильной фиксации - 75 мл",
+    "quantity": 3,
+    "vat": 20,
+    "price": 162
+  },
+  {
+    "id": "4e1d10b9-aefe-11ef-0a80-11b9014a040f",
+    "name": "ЛАК для волос ультрасильной фиксации без отдушки 75 мл",
+    "quantity": 2,
+    "vat": 20,
+    "price": 162
+  },
+  {
+    "id": "298b2556-aefe-11ef-0a80-11b90149eb35",
+    "name": "МУСС Bionika для уплотнения волос - 250 мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 399
+  },
+  {
+    "id": "2c33928e-aefe-11ef-0a80-11b90149ecb2",
+    "name": "МУСС Curl hair для создания локонов - 150 мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 266.25
+  },
+  {
+    "id": "4ea29abb-aefe-11ef-0a80-11b9014a044c",
+    "name": "МУСС Style для укладки сильной фиксации - 150 мл",
+    "quantity": 2,
+    "vat": 20,
+    "price": 256.5
+  },
+  {
+    "id": "32847041-aefe-11ef-0a80-11b90149f13c",
+    "name": "Тонирующая маска ОРАНЖ 300мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 325.5
+  },
+  {
+    "id": "2a367a16-aefe-11ef-0a80-11b90149eb90",
+    "name": "ШАМПУНЬ Care увлажняющий для волос с гиалуроновой кислотой ULTIMATE CARE - 1000 мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 747.75
+  },
+  {
+    "id": "3e69124a-aefe-11ef-0a80-11b90149f9be",
+    "name": "ШАМПУНЬ Perfect hair сухой для волос - 200 мл",
+    "quantity": 3,
+    "vat": 20,
+    "price": 300.75
+  },
+  {
+    "id": "3036d06a-aefe-11ef-0a80-11b90149ef00",
+    "name": "Шампунь для волос с экстрактами манго и ягод асаи 500 мл",
+    "quantity": 1,
+    "vat": 20,
+    "price": 321
+  }
+]
