@@ -1,22 +1,21 @@
 services:
   vllm-server:
     image: vllm/vllm-openai:latest
-    container_name: vllm-moe-2
+    container_name: vllm-moe-5
     runtime: nvidia
     ports:
       - "8000:8000"
     volumes:
-      - /home/llm-lab-server-side/models:/models
+      - /home/models:/models
     ipc: host
     command: >
-      --model /models/Qwen2.5-14B-Instruct-AWQ
-      --pipeline-parallel-size 2
-      --quantization awq
-      --max-model-len 32000
+      --model /models/Qwen3.6-27B-AWQ-INT4
+      --tensor-parallel-size 2
+      --max-model-len 32768
       --max-num-batched-tokens 4096
       --kv-cache-dtype fp8
-      --gpu-memory-utilization 0.75
-      --served-model-name Qwen2.5-14B-Instruct-AWQ
+      --gpu-memory-utilization 0.85
+      --served-model-name Qwen3.6-27B-AWQ-INT4
       --enable-prefix-caching
       --enable-chunked-prefill
       --trust-remote-code
@@ -25,5 +24,5 @@ services:
         reservations:
           devices:
             - driver: nvidia
-              device_ids: ['0']
+              count: all
               capabilities: [gpu]

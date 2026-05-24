@@ -21,12 +21,12 @@ var (
 	spaceRe = regexp.MustCompile(`\s{2,}`)
 )
 
-const currentModel = "Qwen3.5-35B-AWQ"
+const currentModel = "Qwen3.6-27B-AWQ-INT4"
 const logFileName = "benchmark_" + currentModel + "_test.log"
 
 const errorLogFileName = "benchmark_" + currentModel + "_test_errors.log"
 const apiBaseURL = "http://213.172.7.235:8000/v1"
-const maxWorkers = 15
+const maxWorkers = 5
 
 var prompt = `
 You are an expert in data extraction from tabular business documents (TORG-12, UPD, etc.). Your task is to ANALYZE THE ATTACHED DOCUMENT, EXTRACT ALL COMMODITY POSITIONS, and RETURN THEM IN A STRICTLY DEFINED JSON FORMAT.
@@ -209,7 +209,7 @@ func main() {
 	mw := io.MultiWriter(os.Stdout, f)
 	mainLogger := log.New(mw, "", 0)
 
-	supplyDir := "../../dataset/supply"
+	supplyDir := "../../../example_dataset"
 	entries, err := os.ReadDir(supplyDir)
 	if err != nil {
 		mainLogger.Fatalf("Ошибка чтения директории: %v", err)
