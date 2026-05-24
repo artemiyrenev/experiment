@@ -9,10 +9,9 @@ services:
       - /home/models:/models
     ipc: host
     environment:
-      # Увеличенный таймаут, чтобы сервер не падал при компиляции графов Gated DeltaNet
       VLLM_RPC_TIMEOUT: "300000"
     command: >
-      serve /models/Qwen3.6-27B-AWQ-INT4
+      /models/Qwen3.6-27B-AWQ-INT4
       --tensor-parallel-size 2
       --language-model-only
       --reasoning-parser qwen3
