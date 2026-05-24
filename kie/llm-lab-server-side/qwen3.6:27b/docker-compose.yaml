@@ -8,11 +8,13 @@ services:
     volumes:
       - /home/models:/models
     ipc: host
+    environment:
+      - VLLM_RPC_TIMEOUT=300000
     command: >
       --model /models/Qwen3.6-27B-AWQ-INT4
       --tensor-parallel-size 2
       --max-model-len 32768
-      --max-num-batched-tokens 4096
+      --max-num-batched-tokens 8192
       --kv-cache-dtype fp8
       --gpu-memory-utilization 0.85
       --served-model-name Qwen3.6-27B-AWQ-INT4
